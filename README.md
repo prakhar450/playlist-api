@@ -81,10 +81,10 @@ data/
 ## Screenshots
 
 **Get All Songs**
-![Get All Songs](https://github.com/prakhar450/vivpro-assgn/assets/55326021/21b99b66-72b0-4e8d-8a5e-55d8b3514107)
+![Get All Songs](https://github.com/prakhar450/playlist-api/assets/55326021/21b99b66-72b0-4e8d-8a5e-55d8b3514107)
 
 **Search for Song**
-![Search for Song](https://github.com/prakhar450/vivpro-assgn/assets/55326021/0620f4c2-d832-4c14-85ad-c8299571436e)
+![Search for Song](https://github.com/prakhar450/playlist-api/assets/55326021/0620f4c2-d832-4c14-85ad-c8299571436e)
 
 **Update Rating**
-<img width="1787" alt="Update Rating" src="https://github.com/prakhar450/vivpro-assgn/assets/55326021/f5e0efd7-660e-4609-8e6a-428a361c7139">
+<img width="1787" alt="Update Rating" src="https://github.com/prakhar450/playlist-api/assets/55326021/f5e0efd7-660e-4609-8e6a-428a361c7139">
